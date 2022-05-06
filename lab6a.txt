@@ -18,9 +18,8 @@ Zależności funkcyjne:
 ZAD 2.
 Klucze kandydujące: 
 
-*	id_produktu + id_klienta
+*	id_produktu + id_klienta + data_zamówienia
 
-*	nazwa_produktu + id_klienta
 
 ZAD 3.
 Zależności funkcyjne:
